@@ -30,6 +30,17 @@ This is a web based application developed for health related based website in in
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 
+## Screenshots -
+
+![Screenshot 2022-12-31 032145](https://user-images.githubusercontent.com/119487479/210114268-c8bb7368-3efc-4a77-9c1d-fe300e930106.png)
+
+
+![Screenshot 2022-12-31 032351](https://user-images.githubusercontent.com/119487479/210114288-bcdaa4aa-2114-4a2b-bf21-5c779e27ca50.png)
+
+
+![Screenshot 2022-12-31 032247](https://user-images.githubusercontent.com/119487479/210114291-4f0625ca-a42f-4aa8-a076-823ca4f56464.png)
+
+
 ### About Us -
 
 ![Screenshot 2022-12-31 020531](https://user-images.githubusercontent.com/119487479/210110019-c2dfe4de-9b46-45a5-88fd-5f9c68921e6b.png)
