@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://witty-wave-037666800.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/NW7HwvT1sTs
 
 ## Azure technologies used for Project
 
