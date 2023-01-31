@@ -35,13 +35,6 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots -
 
-![Screenshot 2022-12-31 032145](https://user-images.githubusercontent.com/119487479/210114268-c8bb7368-3efc-4a77-9c1d-fe300e930106.png)
-
-
-![Screenshot 2022-12-31 032351](https://user-images.githubusercontent.com/119487479/210114288-bcdaa4aa-2114-4a2b-bf21-5c779e27ca50.png)
-
-
-![Screenshot 2022-12-31 032247](https://user-images.githubusercontent.com/119487479/210114291-4f0625ca-a42f-4aa8-a076-823ca4f56464.png)
 
 
 ### About Us -
@@ -59,9 +52,6 @@ This is a web based application developed for health related based website in in
 
 
 ### health bot -
-
-![Screenshot 2022-12-31 021414](https://user-images.githubusercontent.com/119487479/210110459-d6a1f424-81cf-450e-a4c8-6128118f8179.png)
-
 
 
 ## Tech Stack 💻
